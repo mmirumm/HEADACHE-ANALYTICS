@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1040" viewBox="0 0 1440 1040">
+<title>MigreBot — приветственная страница</title>
+<desc>Самостоятельный вариант начальной страницы. Прямоугольники и текст сохранены отдельными элементами.</desc>
+<rect width="1440" height="1040" fill="#FFFFFF"/>
+<g id="layer-0" aria-label="Header / Mark">
+<rect x="96" y="44" width="42" height="42" rx="12" fill="#45877C"/>
+</g>
+<g id="layer-1" aria-label="Header / Initial">
+<text x="107" y="73" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">
+<tspan x="107" dy="0">M</tspan>
+</text>
+</g>
+<g id="layer-2" aria-label="Header / Brand">
+<text x="152" y="71" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#243B3B">
+<tspan x="152" dy="0">MigreBot</tspan>
+</text>
+</g>
+<g id="layer-3" aria-label="Header / Descriptor">
+<text x="1063" y="68" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#687B79">
+<tspan x="1063" dy="0">Ваш дневник головной боли</tspan>
+</text>
+</g>
+<g id="layer-4" aria-label="Header / Divider">
+<rect x="96" y="116" width="1248" height="1" rx="0" fill="#DEE7E3"/>
+</g>
+<g id="layer-5" aria-label="Intro / Eyebrow background">
+<rect x="96" y="174" width="224" height="30" rx="15" fill="#EAF3EF"/>
+</g>
+<g id="layer-6" aria-label="Intro / Eyebrow">
+<text x="111" y="192" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#45877C">
+<tspan x="111" dy="0">РАЗБИРАЕМСЯ ВМЕСТЕ</tspan>
+</text>
+</g>
+<g id="layer-7" aria-label="Intro / Greeting">
+<text x="96" y="297" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#243B3B">
+<tspan x="96" dy="0">Добро пожаловать</tspan>
+<tspan x="96" dy="67">в MigreBot</tspan>
+</text>
+</g>
+<g id="layer-8" aria-label="Intro / Description">
+<text x="96" y="429" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#687B79">
+<tspan x="96" dy="0">Ваши записи о головной боли — в понятных графиках.</tspan>
+<tspan x="96" dy="30">Загрузите дневник из бота и посмотрите, как часто</tspan>
+<tspan x="96" dy="30">возникает боль и как меняются ваши оценки.</tspan>
+</text>
+</g>
+<g id="layer-9" aria-label="Intro / Chip Дни с болью">
+<rect x="96" y="540" width="144" height="38" rx="19" fill="#F2F6F5"/>
+</g>
+<g id="layer-10" aria-label="Intro / Chip label Дни с болью">
+<text x="112" y="562" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#45877C">
+<tspan x="112" dy="0">Дни с болью</tspan>
+</text>
+</g>
+<g id="layer-11" aria-label="Intro / Chip Интенсивность">
+<rect x="252" y="540" width="170" height="38" rx="19" fill="#F2F6F5"/>
+</g>
+<g id="layer-12" aria-label="Intro / Chip label Интенсивность">
+<text x="268" y="562" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#45877C">
+<tspan x="268" dy="0">Интенсивность</tspan>
+</text>
+</g>
+<g id="layer-13" aria-label="Intro / Chip Динамика">
+<rect x="434" y="540" width="122" height="38" rx="19" fill="#F2F6F5"/>
+</g>
+<g id="layer-14" aria-label="Intro / Chip label Динамика">
+<text x="450" y="562" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#45877C">
+<tspan x="450" dy="0">Динамика</tspan>
+</text>
+</g>
+<g id="layer-15" aria-label="Intro / Personal pace">
+<text x="96" y="629" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#687B79">
+<tspan x="96" dy="0">Начните с одного файла. Остальное мы соберём на странице.</tspan>
+</text>
+</g>
+<g id="layer-16" aria-label="Upload / Panel">
+<rect x="790" y="174" width="554" height="485" rx="24" fill="#FFFFFF" stroke="#DEE7E3" stroke-width="1"/>
+</g>
+<g id="layer-17" aria-label="Upload / Heading">
+<text x="828" y="235" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#243B3B">
+<tspan x="828" dy="0">Начните со своего дневника</tspan>
+</text>
+</g>
+<g id="layer-18" aria-label="Upload / Hint">
+<text x="828" y="273" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#687B79">
+<tspan x="828" dy="0">Выберите CSV-файл, который вы выгрузили из бота.</tspan>
+</text>
+</g>
+<g id="layer-19" aria-label="Upload / Dropzone">
+<rect x="828" y="304" width="478" height="186" rx="16" fill="#F5F9F7" stroke="#9DBAB2" stroke-width="1" stroke-dasharray="6 5"/>
+</g>
+<g id="layer-20" aria-label="Upload / File format">
+<text x="1040" y="346" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#45877C">
+<tspan x="1040" dy="0">CSV</tspan>
+</text>
+</g>
+<g id="layer-21" aria-label="Upload / Dropzone hint">
+<text x="892" y="385" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#687B79">
+<tspan x="892" dy="0">Перетащите файл сюда или выберите его</tspan>
+</text>
+</g>
+<g id="layer-22" aria-label="Upload / Button">
+<rect x="969" y="412" width="194" height="48" rx="10" fill="#45877C"/>
+</g>
+<g id="layer-23" aria-label="Upload / Button label">
+<text x="1002" y="440" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">
+<tspan x="1002" dy="0">Выбрать CSV</tspan>
+</text>
+</g>
+<g id="layer-24" aria-label="Upload / Demo checkbox">
+<rect x="830" y="518" width="18" height="18" rx="4" fill="#FFFFFF" stroke="#9DBAB2" stroke-width="1"/>
+</g>
+<g id="layer-25" aria-label="Upload / Demo label">
+<text x="860" y="530" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#243B3B">
+<tspan x="860" dy="0">Посмотреть пример на вымышленных данных</tspan>
+</text>
+</g>
+<g id="layer-26" aria-label="Upload / Format note">
+<text x="828" y="576" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#687B79">
+<tspan x="828" dy="0">CSV до 5 МБ · Без регистрации</tspan>
+</text>
+</g>
+<g id="layer-27" aria-label="Upload / Privacy">
+<text x="828" y="606" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#687B79">
+<tspan x="828" dy="0">При локальном запуске данные остаются на вашем Mac.</tspan>
+</text>
+</g>
+<g id="layer-28" aria-label="Steps / Heading">
+<text x="96" y="751" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#243B3B">
+<tspan x="96" dy="0">От записей — к понятной картине</tspan>
+</text>
+</g>
+<g id="layer-29" aria-label="Steps / Card 01">
+<rect x="96" y="785" width="400" height="167" rx="18" fill="#F2F6F5"/>
+</g>
+<g id="layer-30" aria-label="Steps / Number 01">
+<text x="120" y="820" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#45877C">
+<tspan x="120" dy="0">01</tspan>
+</text>
+</g>
+<g id="layer-31" aria-label="Steps / Title 01">
+<text x="120" y="861" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#243B3B">
+<tspan x="120" dy="0">Выгрузите дневник</tspan>
+</text>
+</g>
+<g id="layer-32" aria-label="Steps / Body 01">
+<text x="120" y="897" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#687B79">
+<tspan x="120" dy="0">Сохраните историю записей</tspan>
+<tspan x="120" dy="24">из Migrebot в формате CSV.</tspan>
+</text>
+</g>
+<g id="layer-33" aria-label="Steps / Card 02">
+<rect x="520" y="785" width="400" height="167" rx="18" fill="#F2F6F5"/>
+</g>
+<g id="layer-34" aria-label="Steps / Number 02">
+<text x="544" y="820" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#45877C">
+<tspan x="544" dy="0">02</tspan>
+</text>
+</g>
+<g id="layer-35" aria-label="Steps / Title 02">
+<text x="544" y="861" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#243B3B">
+<tspan x="544" dy="0">Загрузите файл</tspan>
+</text>
+</g>
+<g id="layer-36" aria-label="Steps / Body 02">
+<text x="544" y="897" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#687B79">
+<tspan x="544" dy="0">Выберите CSV на этой странице.</tspan>
+<tspan x="544" dy="24">Данные появятся автоматически.</tspan>
+</text>
+</g>
+<g id="layer-37" aria-label="Steps / Card 03">
+<rect x="944" y="785" width="400" height="167" rx="18" fill="#F2F6F5"/>
+</g>
+<g id="layer-38" aria-label="Steps / Number 03">
+<text x="968" y="820" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#45877C">
+<tspan x="968" dy="0">03</tspan>
+</text>
+</g>
+<g id="layer-39" aria-label="Steps / Title 03">
+<text x="968" y="861" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#243B3B">
+<tspan x="968" dy="0">Посмотрите динамику</tspan>
+</text>
+</g>
+<g id="layer-40" aria-label="Steps / Body 03">
+<text x="968" y="897" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#687B79">
+<tspan x="968" dy="0">Выберите период и изучите</tspan>
+<tspan x="968" dy="24">частоту и интенсивность боли.</tspan>
+</text>
+</g>
+<g id="layer-41" aria-label="Footer / Note">
+<text x="96" y="1001" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#687B79">
+<tspan x="96" dy="0">MigreBot · Наглядная история вашего самочувствия</tspan>
+</text>
+</g>
+</svg>
